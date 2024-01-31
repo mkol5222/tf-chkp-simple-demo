@@ -1,7 +1,7 @@
 
 ```shell
 # work folder
-cd /workspaces/demo123/01-s1c
+cd /workspaces/tf-chkp-simple-demo/01-s1c
 
 alias tf=terraform
 
@@ -35,4 +35,8 @@ resource "checkpoint_management_host" "a" {
         "terraform",
     ]
 }
+```
+
+```shell
+terraform destroy
 ```

@@ -5,5 +5,17 @@
 		"ghcr.io/devcontainers-contrib/features/terraform-asdf:2": {},
 		"ghcr.io/eitsupi/devcontainer-features/jq-likes:2": {},
 		"ghcr.io/audacioustux/devcontainers/k9s:1": {}
-	}
+	},
+	"customizations": {
+        "vscode": {
+            "settings": {
+                
+            },
+            "extensions": [
+                "oderwat.indent-rainbow",
+				"ms-vscode.powershell",
+				"hashicorp.terraform"
+            ]
+        }
+    }
 }
