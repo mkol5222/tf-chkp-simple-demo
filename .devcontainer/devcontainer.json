@@ -14,7 +14,8 @@
             "extensions": [
                 "oderwat.indent-rainbow",
 				"ms-vscode.powershell",
-				"hashicorp.terraform"
+				"hashicorp.terraform",
+				"mechatroner.rainbow-csv"
             ]
         }
     }
