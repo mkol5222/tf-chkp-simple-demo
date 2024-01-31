@@ -13,7 +13,7 @@ terraform init
 terraform plan
 terraform apply
 
-# import into TF state, where relevant
+# import into TF state, where relevant - e.g. after "rm terraform.tfstate" ;-)
 terraform import checkpoint_management_host.b tak
 terraform import checkpoint_management_host.a tik
 terraform apply
