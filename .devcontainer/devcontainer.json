@@ -2,7 +2,7 @@
 	"image": "mcr.microsoft.com/devcontainers/universal:2",
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/kubectl-asdf:2": {},
-		"ghcr.io/devcontainers-contrib/features/terraform-ls-asdf:2": {},
+		"ghcr.io/devcontainers-contrib/features/terraform-asdf:2": {},
 		"ghcr.io/eitsupi/devcontainer-features/jq-likes:2": {},
 		"ghcr.io/audacioustux/devcontainers/k9s:1": {}
 	}
